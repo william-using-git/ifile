@@ -19,8 +19,18 @@ MATLAB is a trademark of The MathWorks, Inc.
 
 ## Installation
 
-TODO
-
+pip users:
+```bash
+pip install ifile-reader
+```
+Poetry users:
+```bash
+poetry add ifile-reader
+```
+Import:
+```python
+from ifile_reader import IFile
+```
 ## Usage
 
 Simply creating the ifile object (the ifile is read inside the constructor):
