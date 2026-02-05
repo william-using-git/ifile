@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "ifile"
+name = "ifile-reader"
 version = "0.1.0"
 description = ""
 authors = ["william-using-git <william.using.github@gmail.com>"]
