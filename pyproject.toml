@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "ifile-reader"
-version = "0.1.1"
+version = "0.1.2"
 description = "Python reader for AVL IFILE using Catool backend"
 authors = ["william-using-git <william.using.github@gmail.com>"]
 readme = "README.md"

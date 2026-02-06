@@ -1,4 +1,4 @@
-# ifile
+# ifile-reader
 
 A compact Python wrapper around [`catool`](https://catool.org/) to extract AVL's industry-standard IFile format into Python-native structures (ifile → MAT → dict and class object). Designed to be lightweight and easy to use.
 
